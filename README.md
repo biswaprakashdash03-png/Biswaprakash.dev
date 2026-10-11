@@ -1,27 +1,28 @@
 <p align="center">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0SLVEd3HTNfqTU_lqw61oSZA-VSjzLZsrd64H-GCRKw&s=10 />
+  <img src="banner.png" width="150" alt="Biswaprakash Dash" />
 </p>
 
+## Hi, I'm Biswaprakash 👋
 
-
-# 👋 Hi, I'm Biswaprakash Dash
-
-### Software Engineer | Full Stack Developer | Cloud & AI Enthusiast
-
-I build modern, scalable and user-focused applications while continuously learning Full Stack Development, Cloud, DevOps and AI.
+B.Tech CSE student at Gandhi Engineering College, Bhubaneswar. I'm learning full stack development and looking for internship opportunities.
 
 ## 🚀 About Me
-
-* 💻 Full Stack Development
-* ☁️ Cloud & DevOps
-* 🤖 AI-powered applications
-* 🧠 Problem Solving & DSA
-* 🚀 Building real-world projects
+- 💻 Web development: HTML, CSS, React (learning Node.js, MongoDB)
+- 🧠 Problem solving & DSA (LeetCode)
+- 🤖 Exploring Machine Learning & Data Analytics
+- 🛠️ Learning Cloud & DevOps basics
 
 ## 🛠️ Technologies
+Python • JavaScript • React • Node.js • MongoDB • Git & GitHub
 
-JavaScript • React • Python • Node.js • PHP • MySQL • MongoDB • AWS • Docker • Kubernetes • Git & GitHub
+## 📜 Experience
+- JPMorgan Chase Software Engineering Job Simulation
+- Deloitte Data Analytics Job Simulation
+- Data Science Intern (virtual), CodSoft
 
-## 🎯 Current Focus
+## 🚀 Projects
+- [ATM](https://github.com/biswaprakashdash03-png/ATM): Python ATM simulator
+- [Tesla Landing Page](https://github.com/biswaprakashdash03-png/tesla-landing-page): HTML/CSS
 
-Building production-ready applications, improving problem-solving skills, and learning Cloud, DevOps and AI Engineering.
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/biswaprakash-dash-4abb9b391) | [LeetCode](https://leetcode.com/u/BiswaprakashDash) | biswaprakashdash03@gmail.com
