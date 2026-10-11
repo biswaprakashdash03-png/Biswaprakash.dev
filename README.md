@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="150" alt="Biswaprakash Dash" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0SLVEd3HTNfqTU_lqw61oSZA-VSjzLZsrd64H-GCRKw&s=10" width="150" />
 </p>
 
 ## Hi, I'm Biswaprakash 👋
